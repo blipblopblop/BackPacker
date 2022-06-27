@@ -1,2 +1,2 @@
-# PackPacker
+# BackPacker
 Web mapping platform developed from scratch utilizing the EZGL database  
